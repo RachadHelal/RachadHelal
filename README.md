@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Rachad Helal, a former architect turned tech enthusiast. After spending a couple of years designing buildings, I decided to switch gears and dive headfirst into the exciting world of technology. Armed with my trusty blueprint pencil (now replaced with a keyboard), I'm on a mission to bridge the gap between creativity and innovation. From constructing stunning structures to crafting elegant code, I'm constantly exploring new horizons and embracing the wonders of this digital realm. If I'm not glued to my screen, you'll find me roaming the streets, capturing the beauty of architecture through my lens. Let's connect and build something awesome together, whether it's virtual or made of bricks and mortar!
 
 <!--
 **RachadHelal/RachadHelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
