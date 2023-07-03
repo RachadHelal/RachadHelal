@@ -1,16 +1,13 @@
-### Hey there! I'm Rachad Helal, a former architect turned tech enthusiast. After spending a couple of years designing buildings, I decided to switch gears and dive headfirst into the exciting world of technology. Armed with my trusty blueprint pencil (now replaced with a keyboard), I'm on a mission to bridge the gap between creativity and innovation. From constructing stunning structures to crafting elegant code, I'm constantly exploring new horizons and embracing the wonders of this digital realm. If I'm not glued to my screen, you'll find me roaming the streets, capturing the beauty of architecture through my lens. Let's connect and build something awesome together, whether it's virtual or made of bricks and mortar!
+<h1 align="center">Hi 👋, I'm Rachad Helal</h1>
+<h3 align="center">A former architect turned tech enthusiast</h3>
+<img align="right" alt="Coding" width="200" src="https://i.gifer.com/1Vfu.gif">
 
-<!--
-**RachadHelal/RachadHelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **helal.rachad@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rachadhelal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachadhelal" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
