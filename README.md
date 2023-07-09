@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachad Helal</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🌱 I’m currently learning **Foundations of Computer Science @SE Factory & Full Stack Engineer Path @Codecademy**
+- 🌱 I’m currently learning **Foundations of Computer Science @SE Factory. Full Stack Engineer Path @Codecademy**
 
 - 📫 How to reach me **helal.rachad@gmail.com**
 
